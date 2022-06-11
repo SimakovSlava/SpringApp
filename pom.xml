@@ -31,8 +31,9 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.3.20</version>
+      <version>5.3.19</version>
     </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
     <dependency>
@@ -69,6 +70,12 @@
       <version>5.3.20</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.9.9.1</version>
+    </dependency>
 
 
 
